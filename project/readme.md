@@ -1,1 +1,0 @@
-Project: online-gesture recongnition
